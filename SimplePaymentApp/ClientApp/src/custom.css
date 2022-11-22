@@ -1,0 +1,46 @@
+/* Provide sufficient contrast against white background */
+a {
+  color: #0366d6;
+}
+
+code {
+  color: #E01A76;
+}
+
+.btn-primary {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+#cardName:valid {
+    color: green;
+}
+
+#cardName:invalid {
+    color: red;
+}
+
+#cardNumber:valid {
+    color: green;
+}
+
+#cardNumber:invalid {
+    color: red;
+}
+
+#cardCvv:valid {
+    color: green;
+}
+
+#cardCvv:invalid {
+    color: red;
+}
+
+#cardAmount:valid {
+    color: green;
+}
+
+#cardAmount:invalid {
+    color: red;
+}
